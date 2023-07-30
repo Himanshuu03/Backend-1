@@ -24,4 +24,4 @@ app.post("/api/cars",(request,response)=>{
     console.log(name);
     console.log(brand);
     response.send("data has been submitted");
-}) 
+})  
